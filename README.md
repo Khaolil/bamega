@@ -1,0 +1,2 @@
+# bamega
+Umbak manapi
